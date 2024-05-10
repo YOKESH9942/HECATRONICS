@@ -20,7 +20,7 @@
 ## Application 
 
 1. Help for How to apply:
-   message to 8825861138 in WhatsApp
+  * Message to 8825861138 in WhatsApp
 2. Application dependencies:
   * Name:
   * Mobile number:
