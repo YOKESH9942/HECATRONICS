@@ -1,5 +1,6 @@
 # HECATRONICS
-
+SINCE 2016
+  LEARN THE ART OF ELECTRONICS WITH HECATRONIC'S 
 Description of your project.
 
 ## Table of Contents
@@ -26,13 +27,6 @@ Description of your project.
   * Mobile numbers
   * Address
   * Photo no:2
-
-## Usage
-
-1. Run the application:
-    ```sh
-    npm start
-    ```
 
 ## For more details.
 
