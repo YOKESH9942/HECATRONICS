@@ -19,10 +19,8 @@ Description of your project.
 
 ## Application 
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/YOKESH9942/HECATRONICS.git
-    ```
+1. Help for How to apply:
+   message to 8825861138 in WhatsApp
 2. Application dependencies:
   * Name
   * Mobile numbers
