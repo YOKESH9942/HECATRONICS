@@ -21,9 +21,9 @@ LEARN THE ART OF ELECTRONICS WITH HECATRONIC'S.
 1. Help for How to apply:
    message to 8825861138 in WhatsApp
 2. Application dependencies:
-  * Name
-  * Mobile numbers
-  * Address
+  * Name:
+  * Mobile number:
+  * Address:
   * Photo no:2
 
 ## For more details.
@@ -35,7 +35,7 @@ LEARN THE ART OF ELECTRONICS WITH HECATRONIC'S.
 4. visit our instagram account (`https://www.instagram.com/hecatronics?igsh=enFqOTd4cDJlZGRp`)
 
 ## Founder & CEO
-YOKESH M
+#  YOKESH M
 
 ## License
 
