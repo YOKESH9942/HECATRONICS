@@ -1,6 +1,5 @@
-# ![2024-04-16-18-44-08_EDIT org](https://github.com/YOKESH9942/HECATRONICS/assets/167210170/f6444fb7-626d-467b-824d-cf5821cbef52)
-
-# HECATRONIC'S 
+#                                            HECATRONIC'S
+## ![2024-04-16-18-44-08_EDIT org](https://github.com/YOKESH9942/HECATRONICS/assets/167210170/f6444fb7-626d-467b-824d-cf5821cbef52)
 LEARN THE ART OF ELECTRONICS WITH HECATRONIC'S.
 
 ## Table of Contents
